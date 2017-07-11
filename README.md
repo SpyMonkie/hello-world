@@ -14,4 +14,8 @@ This is 1st one
     <li>Drumming</li>
     <li>Complex Problem Solving</li>
     </ul>
+    <P>Now listing them in order of best to worst:</p>
+    <ol>
+    <li>Drumming</li>
+    <li>Complex Problem Solving</li>
 </html>
