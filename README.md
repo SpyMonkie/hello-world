@@ -3,7 +3,7 @@ This is 1st one
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Coding Journal</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
   </head>
     <body>
       <h1>HTML practice</h1>
