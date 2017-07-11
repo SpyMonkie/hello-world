@@ -18,4 +18,5 @@ This is 1st one
     <ol>
     <li>Drumming</li>
     <li>Complex Problem Solving</li>
+    <a href="www.guitarcenter.com/Drums-Percussion.gc" target="_blank">Learn More</a>
 </html>
