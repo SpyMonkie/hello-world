@@ -18,7 +18,7 @@ This is 1st one
     <ol>
     <li>Drumming</li>
     <li>Complex Problem Solving</li>
-    <a href="www.guitarcenter.com/Drums-Percussion.gc" target="_blank">Learn More</a>
+    <a href="http://www.guitarcenter.com/Drums-Percussion.gc" target="_blank">Learn More</a>
     <p>This is a picture of what a drumset looks like</p>
     <img src="https://az58332.vo.msecnd.net/e88dd2e9fff747f090c792316c22131c/Images/Products20180-1200x1200-1592542.jpg"/>
 </html>
