@@ -6,7 +6,7 @@ This is 1st one
     <title>My Coding Journal</title>
   </head>
     <body>
-      <h1>This is ME</h1>
+      <h1>HTML practice</h1>
     </body>
     <p>Hello everybody. I am very new to coding and learning all these new machine languages</p>
 </html>
