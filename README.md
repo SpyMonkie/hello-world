@@ -47,7 +47,20 @@ This is 1st one
 <html>
 <head>
   <title>Animals Around the World</title>
+ <style>
+    * {
+  font-family: 'Georgia', 'Times', serif;
+}
 
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+}
+  </style>
 </head>
 <body>
   <h1>The Brown Bear</h1>
